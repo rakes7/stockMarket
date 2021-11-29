@@ -1,0 +1,15 @@
+pandas==0.25.3
+numpy==1.19.0
+statsmodels==0.12.2
+matplotlib==3.3.4
+scipy==1.4.1
+dtaidistance==2.2.5
+pyclustering==0.10.1.2
+tensorflow==2.1.0
+sklearn==0.0
+scikit-learn==0.24.2
+requests==2.25.1
+seaborn==0.11.1
+pandas_ta==0.1.39b
+pydot==1.4.2
+graphviz==0.16

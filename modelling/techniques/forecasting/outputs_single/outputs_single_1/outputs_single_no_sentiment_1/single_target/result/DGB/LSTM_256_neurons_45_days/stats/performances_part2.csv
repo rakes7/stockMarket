@@ -1,0 +1,9 @@
+performance_name,value
+macro_avg_precision,0.3148148148148148
+macro_avg_recall,0.3171185539606592
+macro_avg_f1,0.31564172868520696
+weighted_avg_precision,0.36419753086419754
+weighted_avg_recall,0.3611111111111111
+weighted_avg_f1-score,0.362286199242721
+accuracy,0.3611111111111111
+support,36.0
